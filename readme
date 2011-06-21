@@ -1,0 +1,8 @@
+Metrics for P2PU. For context regarding what metrics we are interested in, see
+http://pad.p2pu.org/metrics. 
+
+Dependencies:
+This script required ruby's mysql gem. 
+
+To run:
+See comments in the report.rb file. 
